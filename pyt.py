@@ -54,7 +54,7 @@ subprocess.run(["git", "remote", "add", "origin", github_repo_url])
 
 
 
-subprocess.run(["git", "push", "--set-upstream", "origin", "master"])
+subprocess.run(["git", "push", "--set-upstream", "origin", "main"])
 
 
 
