@@ -48,7 +48,7 @@ print("compile1")
 
 gusername="deb2511"
 gpassword= "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"
-github_repo_url = f"https://{gusername}:{gpassword}@github.com/dmaity2511/svngitpy.git"
+github_repo_url = f"https://{gusername}:{gpassword}@github.com/dmaity2511/hiii.git"
 
 subprocess.run(["git", "remote", "add", "origin", github_repo_url])
 
