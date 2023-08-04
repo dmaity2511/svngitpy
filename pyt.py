@@ -15,7 +15,7 @@ svn_password = "Prime@123"
 
 
 # GitHub Personal Access Token (PAT)
-github_pat = "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"  # Replace with your GitHub PAT
+github_pat = "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"  # Replace with your GitHub PAT
 
 
 #os.environ["GIT_ASKPASS"] = "echo"  # Set to "echo" to provide password non-interactively
