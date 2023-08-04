@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted # You can choose other OS if needed
+    runs-on: ubuntu-latest # You can choose other OS if needed
 
     steps:
       - name: Checkout code
