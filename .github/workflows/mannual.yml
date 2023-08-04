@@ -34,7 +34,7 @@ jobs:
         run: |
           mkdir migration
           cd migration
-          sudo init
+          sudo git init
           git svn init http://20.25.185.244/svn/myrepo/ --no-metadata
           git svn fetch --username "admin" --password "Prime@123"
 
